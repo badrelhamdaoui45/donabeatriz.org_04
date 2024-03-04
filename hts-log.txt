@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 04 Mar 2024 09:33:34 at https://donabeatriz.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps0u0%h%B%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://donabeatriz.org/ -O1 "C:\My Web Sites\https___donabeatriz.org_04" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:33:51	Warning: 	Incorrect length (199486!=559015 expected) for https://donabeatriz.org/wp-content/uploads/2024/02/Photo_Accueil_Banniere-1-scaled.jpg
+09:33:52	Warning: 	Retry after error -4 (Interrupted transfer) at link https://donabeatriz.org/wp-content/uploads/2024/02/Photo_Accueil_Banniere-1-scaled.jpg (from https://donabeatriz.org/)
+09:33:56	Warning: 	Incorrect length (11292!=87553 expected) for https://donabeatriz.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+09:34:12	Warning: 	Retry after error -4 (Interrupted transfer) at link https://donabeatriz.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1 (from https://donabeatriz.org/)
+09:34:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://donabeatriz.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 (from https://donabeatriz.org/)
+09:36:27	Warning: 	Retry after error -2 (Receive Time Out) at link https://donabeatriz.org/wp-content/uploads/2024/02/cropped-favicon-1-180x180.png (from https://donabeatriz.org/)
+09:37:11	Warning: 	Incorrect length (12775!=49662 expected) for https://donabeatriz.org/wp-content/uploads/2024/02/Logo_Projet_CollectionDB.webp
+09:37:11	Warning: 	Retry after error -4 (Interrupted transfer) at link https://donabeatriz.org/wp-content/uploads/2024/02/Logo_Projet_CollectionDB.webp (from https://donabeatriz.org/index.php/nos-projets/)
+09:37:15	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://donabeatriz.org/wp-content/uploads/2024/02/Livre_Projet_Tendresse-212x300.webp (from https://donabeatriz.org/index.php/nos-projets/)
+09:37:18	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://donabeatriz.org/wp-content/uploads/2024/02/Livre_Projet_Mattheo-211x300.webp (from https://donabeatriz.org/index.php/nos-projets/)
+09:37:18	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://donabeatriz.org/wp-content/uploads/2024/02/Photo_Projet_AteliersSolidaires-1024x682.webp (from https://donabeatriz.org/index.php/nos-projets/)
+09:39:27	Warning: 	Retry after error -2 (Receive Time Out) at link https://donabeatriz.org/wp-content/uploads/uag-plugin/assets/1000/uag-css-948.css?ver=1709489249 (from https://donabeatriz.org/index.php/nous-rejoindre/)
+09:41:28	Warning: 	Retry after error -2 (Receive Time Out) at link https://donabeatriz.org/wp-content/uploads/uag-plugin/assets/1000/uag-css-948.css?ver=1709489249 (from https://donabeatriz.org/index.php/nous-rejoindre/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 55 seconds : 152 links scanned, 142 files written (6449509 bytes overall) [6496841 bytes received at 13677 bytes/sec], 30368 bytes transferred using HTTP compression in 1 files, ratio 100%
+(No errors, 13 warnings, 0 messages)
